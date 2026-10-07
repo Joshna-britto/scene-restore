@@ -1,0 +1,7 @@
+{
+  "backend": "sd",
+  "hole_pixels_pct": 30.58,
+  "max_pixel_change_outside_mask": 0,
+  "ssim_input_vs_result": 0.8196,
+  "seed": 0
+}

@@ -1,0 +1,17 @@
+# --- core (CPU is enough for the OpenCV backend + all metrics) ---
+numpy
+opencv-python
+scikit-image
+pillow
+# --- generative backends (GPU strongly recommended) ---
+torch
+diffusers
+transformers
+accelerate
+safetensors
+# --- optional ---
+simple-lama-inpainting   # LaMa backend (fast, great for object removal)
+gradio                   # interactive demo UI (app.py)
+pycocotools              # COCO object masks
+ultralytics              # object-consistency metric (YOLO)
+pytest

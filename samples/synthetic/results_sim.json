@@ -1,0 +1,14 @@
+{
+  "per_frame": {
+    "hole_psnr_vs_ground_truth_db": 15.74,
+    "flicker_warp_error": 8.806,
+    "temporal_error_vs_known_motion": 14.58,
+    "max_change_outside_mask": 0
+  },
+  "flow": {
+    "hole_psnr_vs_ground_truth_db": 28.66,
+    "flicker_warp_error": 1.16,
+    "temporal_error_vs_known_motion": 1.07,
+    "max_change_outside_mask": 0
+  }
+}
